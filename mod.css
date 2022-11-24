@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+
+#nav-list > li {
+    text-align: center;
+    background-color: #B3E5FF;
+    border-bottom: 1px solid rgb(59, 30, 30);
+}
+#nav-list{
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+#section1{
+    background-color: #B3E5FF;
+    text-align: center; 
+    margin: 10px;
+    margin-top: 30px;
+
+    
+}
+
+.navbar-header .navbar-brand{
+    color: rgb(190, 18, 18);
+    font-size: 2em;
+    margin-top: 10px;
+}
+
+#header-nav{
+    background-color: beige;
+}
+.navbar-toggle{
+    background-color: #d8dbd0;
+}
+p{
+    font-size: 120%;
+}
+h3{
+    margin-top: 5px;
+}
+h2{
+    margin-top: -5px;
+}
